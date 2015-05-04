@@ -1,0 +1,11 @@
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\bin\Debug\ProcessFormsApplication1.exe.config
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.Properties.Resources.resources
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.csproj.GenerateResource.Cache
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\bin\Debug\ProcessFormsApplication1.exe
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\bin\Debug\ProcessFormsApplication1.pdb
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.exe
+c:\users\hartmann\documents\visual studio 2013\Projects\ProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.pdb
+C:\Users\Hartmann\Documents\Visual Studio 2013\Projects\CloseDllsProcessFormsApplication1\ProcessFormsApplication1\bin\Debug\ProcessFormsApplication1.exe.config
+C:\Users\Hartmann\Documents\Visual Studio 2013\Projects\CloseDllsProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.exe
+C:\Users\Hartmann\Documents\Visual Studio 2013\Projects\CloseDllsProcessFormsApplication1\ProcessFormsApplication1\obj\Debug\ProcessFormsApplication1.pdb
+C:\Users\Hartmann\Documents\Visual Studio 2013\Projects\CloseDllsProcessFormsApplication1\ProcessFormsApplication1\bin\Debug\CloseDllsProcessFormsApplication1.exe.config
